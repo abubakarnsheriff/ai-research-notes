@@ -3,7 +3,9 @@ Artificial Intelligence is the use of algorithms and data to optimize decisions 
 
 
 ## Why it matters
-AI shapes decision-making, automation, and perception at scale.
+AI shifts decision-making from human intuition to data-driven systems, changing power, accountability, and scale across industries and societies.
+
 
 ## My Insight
-AI is less about intelligence and more about optimization under constraints.
+AI systems do not understand problems; they exploit patterns. When patterns change, AI fails silently unless humans notice.
+
